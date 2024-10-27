@@ -1,0 +1,50 @@
+{
+  "Name": "TEST_FOLDER",
+  "Files": [],
+  "NestedDirectories": [
+    {
+      "Name": "Folder_Level_0_1",
+      "Files": [],
+      "NestedDirectories": [
+        {
+          "Name": "New folder",
+          "Files": [
+            {
+              "Name": "New Text Document - Copy.txt",
+              "Extension": ".txt"
+            },
+            {
+              "Name": "New Text Document.txt",
+              "Extension": ".txt"
+            }
+          ],
+          "NestedDirectories": []
+        },
+        {
+          "Name": "New folder - Copy",
+          "Files": [
+            {
+              "Name": "New Text Document - Copy.txt",
+              "Extension": ".txt"
+            },
+            {
+              "Name": "New Text Document.txt",
+              "Extension": ".txt"
+            }
+          ],
+          "NestedDirectories": []
+        }
+      ]
+    },
+    {
+      "Name": "Folder_Level_0_2",
+      "Files": [],
+      "NestedDirectories": []
+    },
+    {
+      "Name": "Folder_Level_0_3",
+      "Files": [],
+      "NestedDirectories": []
+    }
+  ]
+}

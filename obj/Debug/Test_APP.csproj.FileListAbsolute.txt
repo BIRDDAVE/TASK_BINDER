@@ -1,0 +1,13 @@
+C:\Users\binderd\OneDrive - Webasto Group\Pracovná plocha\Projects\Automation\Automation\Test_APP\bin\Debug\Test_APP.exe.config
+C:\Users\binderd\OneDrive - Webasto Group\Pracovná plocha\Projects\Automation\Automation\Test_APP\bin\Debug\Test_APP.exe
+C:\Users\binderd\OneDrive - Webasto Group\Pracovná plocha\Projects\Automation\Automation\Test_APP\bin\Debug\Test_APP.pdb
+C:\Users\binderd\OneDrive - Webasto Group\Pracovná plocha\Projects\Automation\Automation\Test_APP\obj\Debug\Test_APP.csproj.AssemblyReference.cache
+C:\Users\binderd\OneDrive - Webasto Group\Pracovná plocha\Projects\Automation\Automation\Test_APP\obj\Debug\Test_APP.Form1.resources
+C:\Users\binderd\OneDrive - Webasto Group\Pracovná plocha\Projects\Automation\Automation\Test_APP\obj\Debug\Test_APP.Properties.Resources.resources
+C:\Users\binderd\OneDrive - Webasto Group\Pracovná plocha\Projects\Automation\Automation\Test_APP\obj\Debug\Test_APP.csproj.GenerateResource.cache
+C:\Users\binderd\OneDrive - Webasto Group\Pracovná plocha\Projects\Automation\Automation\Test_APP\obj\Debug\Test_APP.csproj.CoreCompileInputs.cache
+C:\Users\binderd\OneDrive - Webasto Group\Pracovná plocha\Projects\Automation\Automation\Test_APP\obj\Debug\Test_APP.exe
+C:\Users\binderd\OneDrive - Webasto Group\Pracovná plocha\Projects\Automation\Automation\Test_APP\obj\Debug\Test_APP.pdb
+C:\Users\binderd\OneDrive - Webasto Group\Pracovná plocha\Projects\Automation\Automation\Test_APP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\binderd\OneDrive - Webasto Group\Pracovná plocha\Projects\Automation\Automation\Test_APP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\binderd\OneDrive - Webasto Group\Pracovná plocha\Projects\Automation\Automation\Test_APP\obj\Debug\Test_APP.csproj.CopyComplete

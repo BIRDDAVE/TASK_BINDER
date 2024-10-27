@@ -1,0 +1,52 @@
+{
+  "Name": "TEST_FOLDER",
+  "Files": [],
+  "NestedDirectories": [
+    {
+      "Name": "Folder_Level_0_1",
+      "Files": [],
+      "NestedDirectories": [
+        {
+          "Name": "SUB_1_0",
+          "Files": [
+            {
+              "Name": "file1.txt",
+              "Extension": ".txt"
+            },
+            {
+              "Name": "file2.txt",
+              "Extension": ".txt"
+            }
+          ],
+          "NestedDirectories": []
+        },
+        {
+          "Name": "SUB_2_0",
+          "Files": [
+            {
+              "Name": "file3.txt",
+              "Extension": ".txt"
+            }
+          ],
+          "NestedDirectories": [
+            {
+              "Name": "SUB_3_0",
+              "Files": [
+                {
+                  "Name": "file4.txt",
+                  "Extension": ".txt"
+                }
+              ],
+              "NestedDirectories": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Folder_Level_0_2",
+      "Files": [],
+      "NestedDirectories": []
+    }
+  ]
+}
